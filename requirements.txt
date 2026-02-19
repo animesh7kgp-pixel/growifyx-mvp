@@ -4,3 +4,7 @@ plotly
 supabase
 python-dotenv
 requests
+openai
+pydantic
+google-generativeai
+pydantic
